@@ -1,2 +1,2 @@
-# bounty-programs
+# Bounty-Programs
 SAGE Bounties
